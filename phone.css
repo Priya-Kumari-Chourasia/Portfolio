@@ -1,0 +1,46 @@
+
+
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*Home*/
+#home{
+    height: 772px;
+    box-sizing: border-box;
+}
+
+.headings{
+    font-size: 2rem;
+}
+
+/*About*/
+#pic img{
+    width: 150px;
+    height: 150px;
+}
+
+#intro h2{
+    font-size: 1.5rem;
+}
+
+/*Portfolio*/
+.gallery img{
+    width:450px;
+    height:300px;
+    margin:10px;
+}
+
+/*contact*/
+.input{
+    width:80%
+}
+
+#msg{
+    width:80%;
+}
+
+#send{
+    width:30%;
+}
