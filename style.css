@@ -59,7 +59,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url('/keith-misner-h0Vxgz5tyXA-unsplash.jpg') no-repeat center center/cover;
+    background: url('img/keith-misner-h0Vxgz5tyXA-unsplash.jpg') no-repeat center center/cover;
     height: 870px;
     width: 100%;
     z-index: -1;
